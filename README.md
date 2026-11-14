@@ -67,16 +67,6 @@ Manage your shop directly in-game using `/dg shopadmin`.
 
 ---
 
-## Download
-
-Download the latest compiled plugin from the GitHub Releases page.
-
-**[Download hDungeon](../../releases/latest)**
-
-The release contains the ready-to-use plugin JAR. No source code or development tools are required.
-
----
-
 ## Installation
 
 1. Download the latest `hDungeon-1.0.0.jar`.
